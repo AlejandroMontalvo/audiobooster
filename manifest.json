@@ -1,0 +1,27 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icon/Speaker_Icon.png",
+         "38": "icon/Speaker_Icon.png"
+      },
+      "default_popup": "html/popup.html",
+      "default_title": "Audio Booster"
+   },
+   "default_locale": "en",
+   "description": "",
+   "icons": {
+      "128": "icon/Speaker_Icon.png",
+      "16": "icon/Speaker_Icon.png",
+      "32": "icon/Speaker_Icon.png",
+      "48": "icon/Speaker_Icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlG2A+Rw1pKNb8HYFnfCdE57s0pmxJtZ3ZAH6ifU5r6VP5bskcjqH+SbuIhe+XunR75OQEWfSvyX8AmKnFwqBLNb0z64Mx9/4ns6CrG9PMtpVu5Felm4DWmUfHGaVabO+ca/IsX9RD1OtMADX1ykMZEQxxJw99wh6jTs4GSWQV3AcWMAoWWgG1EgJe8Emy1Z/kEgkCLl0WMyTLeEJSBm/OGZm5WIsfcwQCcFoQBE9Hrfkahj62QfrIxscPcB7z2LAlxYYKPJswaY/vxFdOhRqoNCJLo3DLirG9z+D52DSYmW+3r5V7G5Az/DcYtyWkYImEtMqjdNiaB8oGgBZHFxiXwIDAQAB",
+   "manifest_version": 2,
+   "name": "Audio Booster",
+   "permissions": [ "tabCapture", "activeTab", "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

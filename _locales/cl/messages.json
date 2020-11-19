@@ -1,0 +1,9 @@
+{
+	"appName":{
+	    "message":"Potenciador de sonido"
+    },
+
+    "appDesc":{
+        "message":"Amplificador de sonido en su navegador. Aumenta el volumen de audio en cualquier pestaña. Funciona con YouTube y otros sitios."
+    }
+}
